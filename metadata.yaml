@@ -1,4 +1,8 @@
 _repo: A-Heart-Song-of-To-day-Disturbed-by-Fire-from-the-Unruly-Member-A-Novel_7184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Savigny, Annie Gregg
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '2367'
     url: http://www.gutenberg.org/2009/agents/2367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7184#A-Heart-Song-of-To-day-Disturbed-by-Fire-from-the-Unruly-Member-A-Novel
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
